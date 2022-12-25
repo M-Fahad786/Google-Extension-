@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "BULK TEXT SELECTOR",
+    "description": "Convert And Copy Bulk Text From Images",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "/Assets/extension_icon.png"
+    }
+}
