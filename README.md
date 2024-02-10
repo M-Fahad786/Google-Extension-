@@ -1,1 +1,1 @@
-<h1> BULK TEXT SELECTOR (GE) </h1>
+<h1> BULK TEXT SELECTOR (Google Extension) </h1>
